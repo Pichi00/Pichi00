@@ -15,7 +15,8 @@
   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="60"/></a>
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="60"/></a>
   <a><img src="https://jaki-jezyk-programowania.pl/img/technologies/csharp.png" height="60"/></a>
-  <!-- Tools -->
+<!-- Tools -->
+  <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="60"/></a> 
   <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height="60"/></a>  
   <a href="https://godotengine.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" height="60"/></a>
   <a href="https://www.aseprite.org/"><img src="https://share.natebeaty.com//aseprite-no-border/aseprite-no-border.png" height="60"/></a>
