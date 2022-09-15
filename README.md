@@ -4,7 +4,6 @@
 🎓 I study Computer Science at the Silesian University of Technology. <br/>
 💻 I'm into programming and making computer games.  <br/>
 🎮 You can play my games at [**pichidev.itch.io**](https://pichidev.itch.io/) <br/>
-🛠 Currently working on [**Space Explorer Game**](https://github.com/Pichi00/SpaceExplorer). <br/>
 📧 You can contact me via email **piokol00@gmail.com** or via [**linkedin**](https://www.linkedin.com/in/piotr-ko%C5%82odziejski-69015018b/). <br/>
 
 <h2>Languages and tools ⚙</h2>
