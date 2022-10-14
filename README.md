@@ -12,6 +12,8 @@
 <!-- Languages -->
   <a href="https://go.dev/"><img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" height="60"/></a>
   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="60"/></a>
+  <a href="https://www.java.com/pl/"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/1200px-Java-Logo.svg.png" height="60" alt="java"/></a>
+  <a href="https://spring.io/"><img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" height="60" alt="srping"/></a>
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="60"/></a>
   <a><img src="https://jaki-jezyk-programowania.pl/img/technologies/csharp.png" height="60"/></a>
 <!-- Tools -->
